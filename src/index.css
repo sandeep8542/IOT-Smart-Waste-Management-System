@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes truckMove {
+
+0% { transform: translateX(-200px); }
+
+100% { transform: translateX(120vw); }
+
+}
